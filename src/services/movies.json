@@ -1,0 +1,33 @@
+[
+    {
+        "idMovie": 1,
+        "name": "Orphan: First Kill",
+        "is3D": false,
+        "genders": [
+            "Crime",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Suspense"
+        ],
+        "direction": "William Brent Bell",
+        "production": [
+            "Alex Mace",
+            "Hal Sadoff",
+            "Ethan Erwin",
+            "Isabelle Fuhrman"
+        ],
+        "protagonists": [
+            "Isabelle Fuhrman",
+            "Julia Stiles",
+            "Rossif Sutherland",
+            "Hiro Kanagawa",
+            "Jade Michael"
+        ],
+        "producer": "Dark Castle Entertainment",
+        "year": "2022",
+        "datePremiere": "99-99-99",
+        "duration": 99,
+        "language": "Inglés"
+    }
+]
